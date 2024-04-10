@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula. 
 
-essa linha eu adcionei diretamente no site GITHUB
+Essa linha eu adcionei diretamente no site GITHUB
